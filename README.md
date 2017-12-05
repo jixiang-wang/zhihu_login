@@ -1,8 +1,8 @@
 一、登录知乎      
 
 这里用的是手机端登录的，[知乎登录的链接](https://www.zhihu.com/signin?next=/)      
-post请求：     
-
+post请求：           
+![image](https://github.com/xiangge93/zhihu_login/raw/master/知乎登录.png)
       
 post请求的参数：      
 _xsrf：据说是防跨站请求的；      
